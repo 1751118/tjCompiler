@@ -15,14 +15,8 @@ cmake -G "Unix Makefiles" ..
 
 三、执行make，编译代码，生成可执行文件main.exe
 
-![image-20230518170445514](C:\Users\youmeng\AppData\Roaming\Typora\typora-user-images\image-20230518170445514.png)
-
 四、运行可执行文件，输入需要编译的源文件
 
 这里提供了报告中的测试用例(test.txt)，和三个构造的错误测试用例(TestWrong.txt)，程序运行会给出相应编译结果。
-
-![image-20230518170516690](C:\Users\youmeng\AppData\Roaming\Typora\typora-user-images\image-20230518170516690.png)
-
-![image-20230518170534435](C:\Users\youmeng\AppData\Roaming\Typora\typora-user-images\image-20230518170534435.png)
 
 参考项目：https://github.com/juyaoliu/C-minus-compiler.git
